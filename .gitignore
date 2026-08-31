@@ -1,0 +1,23 @@
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+*.obj
+*.lib
+*.exp
+/build/
+/dist/
+/bin/
+/obj/
+
+# IDE
+.vs/
+*.user
+*.suo
+*.sdf
+.idea/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
